@@ -1,0 +1,8 @@
+results/
+*.log
+benchmark_output_*
+build_*/
+_build*/
+__pycache__/
+src/ckks_encrypt_SEAL/
+.DS_Store
